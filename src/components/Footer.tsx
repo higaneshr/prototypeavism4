@@ -26,15 +26,6 @@ const Footer = () => {
             </p>
           </div>
           
-          <div className="text-sm text-muted-foreground">
-            <p className="mb-1">Student Science Project</p>
-            <p>
-              Designed & Developed by <span className="text-primary font-semibold">Ganesh & Mohit</span>
-            </p>
-            <p className="mt-1">
-              Carmel Composite PU College, Nanjangud • 2nd PUC PCMC
-            </p>
-          </div>
           
           <Button
             variant="outline"

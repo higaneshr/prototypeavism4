@@ -9,7 +9,7 @@ import FeaturesSection from "@/components/FeaturesSection";
 import SafetySection from "@/components/SafetySection";
 import GallerySection from "@/components/GallerySection";
 import DownloadSection from "@/components/DownloadSection";
-import TeamSection from "@/components/TeamSection";
+
 import FAQSection from "@/components/FAQSection";
 import Footer from "@/components/Footer";
 
@@ -27,7 +27,7 @@ const Index = () => {
       <SafetySection />
       <GallerySection />
       <DownloadSection />
-      <TeamSection />
+      
       <FAQSection />
       <Footer />
     </div>
